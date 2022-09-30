@@ -1,11 +1,14 @@
-/* custom css goes here
 
-body {
-  padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
-}
-
-a {
-  color: #00B7FF;
-}
+/*app.css
+created by Deepa k
+ student id :301250548
+30th September
 */
+
+/* custom css goes here*/
+
+/* CSS for project image */
+.project-img {
+  width: 550px;
+  height: 550px;
+}
